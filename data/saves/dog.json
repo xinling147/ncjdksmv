@@ -2,15 +2,15 @@
     "name": "\u5c0f\u72d7",
     "breed": "\u62c9\u5e03\u62c9\u591a",
     "personality": "\u6d3b\u6cfc",
-    "hunger": 99.49994193037351,
-    "happiness": 99.68746370648344,
+    "hunger": 99.3999360883236,
+    "happiness": 99.62496005520224,
     "health": 100,
-    "cleanliness": 74.83331397679117,
-    "energy": 15.899987889991861,
-    "age": 0.0041671712503389075,
+    "cleanliness": 74.79997869610787,
+    "energy": 15.883320249650208,
+    "age": 0.004861656264574439,
     "growth_stage": 0,
     "skills": {},
     "affection": 50,
     "creation_time": 1743321899.8418646,
-    "last_update_time": 1743323838.2341068
+    "last_update_time": 1743324082.7815232
 }
