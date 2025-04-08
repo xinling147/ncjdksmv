@@ -18,8 +18,8 @@
         "\u5750\u4e0b": 1,
         "\u539f\u5730\u7b49\u5f85": 1
     },
-    "is_sleeping": false,
-    "sleep_until": 0,
+    "is_sleeping": true,
+    "sleep_until": 1744164183.5602353,
     "appearance": {
         "body_color": "#8B4513",
         "ear_color": "#8B4513",
