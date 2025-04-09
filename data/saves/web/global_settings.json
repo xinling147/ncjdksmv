@@ -1,0 +1,27 @@
+{
+  "server": {
+    "max_users": 1000,
+    "max_dogs_per_user": 5,
+    "backup_interval": 3600,
+    "maintenance_mode": false
+  },
+  "game_parameters": {
+    "exp_rate": 1.0,
+    "skill_learn_rate": 1.0,
+    "hunger_decrease_rate": 0.1,
+    "mood_decrease_rate": 0.05,
+    "energy_recovery_rate": 0.2
+  },
+  "events": {
+    "current_event": null,
+    "upcoming_events": [],
+    "daily_rewards": {
+      "enabled": true,
+      "items": [
+        {"type": "food", "amount": 3},
+        {"type": "toy", "amount": 1}
+      ]
+    }
+  },
+  "version": "1.0.0"
+}

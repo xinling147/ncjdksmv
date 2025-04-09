@@ -1,0 +1,28 @@
+{
+  "audio": {
+    "bgm_volume": 0.7,
+    "sfx_volume": 0.8,
+    "voice_volume": 0.9,
+    "mute": false
+  },
+  "display": {
+    "fullscreen": false,
+    "resolution": "1920x1080",
+    "fps_limit": 60,
+    "show_fps": true
+  },
+  "controls": {
+    "interact": "E",
+    "feed": "F",
+    "pet": "Space",
+    "inventory": "Tab"
+  },
+  "last_session": {
+    "last_login": "",
+    "active_dog_id": null,
+    "window_position": {
+      "x": 100,
+      "y": 100
+    }
+  }
+}

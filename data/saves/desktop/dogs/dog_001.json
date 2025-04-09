@@ -1,0 +1,59 @@
+{
+  "id": "001",
+  "name": "Lucky",
+  "breed": "golden_retriever",
+  "created_at": "2024-01-01T00:00:00Z",
+  "stats": {
+    "level": 1,
+    "exp": 0,
+    "health": 100,
+    "mood": 80,
+    "energy": 100,
+    "hunger": 50,
+    "cleanliness": 90
+  },
+  "skills": {
+    "sit": {
+      "level": 1,
+      "exp": 0,
+      "mastery": 0.3
+    },
+    "fetch": {
+      "level": 1,
+      "exp": 50,
+      "mastery": 0.4
+    }
+  },
+  "inventory": {
+    "food": [
+      {"id": "basic_food", "amount": 5},
+      {"id": "premium_food", "amount": 2}
+    ],
+    "toys": [
+      {"id": "ball", "durability": 100},
+      {"id": "rope", "durability": 90}
+    ]
+  },
+  "achievements": {
+    "first_trick": {
+      "completed": false,
+      "progress": 0
+    },
+    "loyal_friend": {
+      "completed": false,
+      "progress": 10
+    }
+  },
+  "interaction_history": [
+    {
+      "type": "feed",
+      "timestamp": "2024-01-01T10:00:00Z",
+      "details": {"food_id": "basic_food", "satisfaction": 8}
+    },
+    {
+      "type": "play",
+      "timestamp": "2024-01-01T11:30:00Z",
+      "details": {"toy_id": "ball", "duration": 300}
+    }
+  ]
+}
